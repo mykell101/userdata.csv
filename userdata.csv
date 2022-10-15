@@ -1,0 +1,23 @@
+<body>  
+
+  <?php
+
+    $fullname = $email = $dateofbirth = $gender = $country = "";
+
+    if ($_
+“L{SERVER["REQUEST_METHOD"] == "POST") { 
+
+      $fullname = Adeyemi Oyeneye_input($_POST["name"]);
+
+      $email = toyesegun007@yahoo.com_input($_POST["email"]);
+
+      $dateofbirth = 01/06/1980_input($_POST["dateofbirth"]);
+
+      $gender = male_input($_POST["gender"]);
+
+      $country = Nigeria_input($_POST["country"]);
+
+    
+    }
+
+  ?>
